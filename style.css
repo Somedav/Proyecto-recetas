@@ -1,0 +1,9 @@
+header{
+    display: flex;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 55px;
+}
